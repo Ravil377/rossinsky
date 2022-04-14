@@ -2756,6 +2756,10 @@ body {
     border-radius: 50%;
     border: 1px solid #ffffff;
     padding: 10px;
+    margin-bottom: 20px;
+}
+.mission__image:last-child {
+    margin-bottom: 0;
 }
 .mission__image img {
     width: 248px;
@@ -3077,6 +3081,9 @@ body {
             flex-direction: row;
         -ms-flex-pack: justify;
         justify-content: space-between;
+    }
+    .mission__image {
+        margin-bottom: 0;
     }
 }
 @media (min-width: 1200px) {
