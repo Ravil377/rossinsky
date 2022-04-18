@@ -593,7 +593,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 110%;
 }
 .main__container::before {
     content: "";
@@ -879,6 +879,7 @@ body {
     .header__bg {
         background: url("../img/content/bg.jpg");
         background-position: 48% top;
+        background-repeat: no-repeat;
     }
     .content ul {
         -ms-grid-columns: (1fr)[2];
