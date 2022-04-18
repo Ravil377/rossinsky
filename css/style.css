@@ -833,7 +833,7 @@ body {
         transform: translateY(-50%);
     width: 36px;
     height: 36px;
-    background-image: url("/img/content/vk.png");
+    background-image: url("../img/content/vk.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -847,7 +847,7 @@ body {
         transform: translateY(-50%);
     width: 36px;
     height: 36px;
-    background-image: url("/img/content/tg.png");
+    background-image: url("../img/content/tg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
